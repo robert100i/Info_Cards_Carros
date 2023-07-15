@@ -1,0 +1,16 @@
+
+        h1 {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 15px;
+        }
+
+        .custom-card {
+            max-height: 700px;
+            margin-bottom: 20px;
+        }
+    
+        .custom-card-content {
+            overflow: auto;
+        }
